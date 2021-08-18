@@ -1,0 +1,6 @@
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/bin/Debug/HW3_WordSearch.exe
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/bin/Debug/HW3_WordSearch.pdb
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/obj/x86/Debug/HW3_WordSearch.csprojAssemblyReference.cache
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/obj/x86/Debug/HW3_WordSearch.csproj.CoreCompileInputs.cache
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/obj/x86/Debug/HW3_WordSearch.exe
+/Users/sheldonelias/Visual Studio/HW3_WordSearch/HW3_WordSearch/obj/x86/Debug/HW3_WordSearch.pdb
